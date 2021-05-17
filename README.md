@@ -35,11 +35,5 @@ I am a passionate self-taught programmer from Odisha.
 
 
 <br />
-
-## I ❤️ Memes
-
-<img alt="Random Memes" height="250px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
-
-
 ⚡ Fun fact <br>
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
